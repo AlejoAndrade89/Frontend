@@ -1,17 +1,54 @@
-body {background-color: #000000; color: white ;font-family: 'Gemunu Libre', sans-serif;font-size: 20px;background-image: url("img/rayas.jpg");}
+body {
+    background-color: #000000;
+    color: white;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 20px;
+    background-image: url("img/rayas.jpg");
+}
 
-header {background-image: url("img/rayas.jpg");}
+header {
+    background-image: url("img/rayas.jpg");
+}
 
-main{background-color: #000000;}
-main {background-image: url("img/rayas.jpg");color: white;}
-h1{background-color: #000000; color: #ffffff;
+main {
+    background-color: #000000;
+}
+
+main {
+    background-image: url("img/rayas.jpg");
+    color: white;
+}
+
+h1 {
+    background-color: #000000;
+    color: #ffffff;
     font-family: 'Times New Roman', Times, serif;
-    font-weight: bold; font-size: 35px;letter-spacing: 0.2cm ;
-    }
-h2{background-color: #000000; color: #ffffff;
+    font-weight: bold;
+    font-size: 35px;
+    letter-spacing: 0.2cm;
+}
+
+h2 {
+    background-color: #000000;
+    color: #ffffff;
     font-family: 'Times New Roman', Times, serif;
-    font-weight: bold; font-size: 20px;font-style: normal;letter-spacing: 0.1cm;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: normal;
+    letter-spacing: 0.1cm;
     text-align-last: left;
-    }
-h3{background-color:#000000; color: white; font-family: 'Times New Roman', Times, serif; font-size: 20px;font-weight: bold;color: #ffffff;}
-ul,dd{font-size: 15px;}
+}
+
+h3 {
+    background-color: #000000;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+ul,
+dd {
+    font-size: 15px;
+}
