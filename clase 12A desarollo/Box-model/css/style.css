@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.harley,
+.batman2 {
+    margin-left: 20px;
+}
+main {
+    height: 100%;
+    width: 100%;
+}
+header {
+    background-color: rgba(0, 102, 159, 1);
+    box-sizing: border-box;
+    box-shadow: 0px 10px 7px 0px rgba(0, 0, 0, 0.25);
+    font-style: normal;
+    font-weight: 400px;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 300;
+}
+
+h1 {
+    font-size: 40px;
+    padding: 20px;
+
+}
+
+.subfond {
+    background-color: rgba(28, 209, 176, 1);
+    font-size: 15px;
+    font-weight: 400px;
+    font-style: normal;
+    height: 38px;
+    padding: 10px;
+}
+
+main {
+    margin-top: 150px;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.container {
+    background-color: rgba(243, 243, 243, 1);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    box-sizing: border-box;
+    display: inline-block;
+    position: relative;
+    height: 530px;
+    width: 300px;
+    z-index: 100;
+}
+
+
+.texto {
+    bottom: 90px;
+    font-style: normal;
+    font-weight: normal;
+    position: relative;
+    padding: 20px;
+    text-align: justify;
+}
+
+.more {
+    background: rgba(0, 102, 159, 1);
+    color: white;
+    bottom: 90px;
+    font-style: normal;
+    font-weight: 400px;
+    left: 80px;
+    padding: 20px;
+    position: relative;
+    text-align: center;
+    width: 130px;
+}
+
+
+.heart {
+    position: relative;
+    right: 110px;
+    top: -180px;
+}
+
+.profile {
+    bottom: 100px;
+    border-radius: 50%;
+    position: relative;
+}
+
+.nombre {
+    bottom: 80px;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: bold;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.nombre1 {
+    bottom: 80px;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: bold;
+    position: relative;
+}
+
+footer {
+    background: rgba(0, 102, 159, 1);
+    color: rgba(255, 249, 249, 1);
+    bottom: 0px;
+    height: 20px;
+    padding: 20px;
+    width: 100%;
+    
+}
